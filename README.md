@@ -221,7 +221,7 @@ Return
 http://xxx.com/abc?openid=oZxSYw5ldcxv6H0EU67GgSXOUrVg
 ```
 
-### Pay order
+### Pay order (via Wechat Pay)
 ```
 redirect /sell/pay/create
 ```
