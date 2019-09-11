@@ -129,7 +129,8 @@ Return
       "createTime": 1490171219,
       "updateTime": 1490171219,
       "orderDetailList": null
-    }]
+    }
+  ]
 }
 ```
 
